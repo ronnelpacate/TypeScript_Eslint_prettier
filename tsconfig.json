@@ -1,15 +1,14 @@
 {
-  "compilerOptions": {
-    "declaration": true,   
-    "declarationMap": true,     
-    "esModuleInterop": true, 
-    "skipLibCheck": true,                          /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */
-    "module": "ESNext",
-    "sourceMap": true,
-    "strict": true,
-    "strictFunctionTypes": true,
-    "target": "ES2021",
-    "strictNullChecks": true
-                            
-  }
+	"compilerOptions": {
+		"declaration": true,
+		"declarationMap": true,
+		"esModuleInterop": true,
+		"skipLibCheck": true /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */,
+		"module": "ESNext",
+		"sourceMap": true,
+		"strict": true,
+		"strictFunctionTypes": true,
+		"target": "ES2021",
+		"strictNullChecks": true
+	}
 }
