@@ -1,4 +1,5 @@
 type haha = true;
+// var cost = 10;
 console.log("Hello world");
 export const hello = "hehehe";
 console.log("hi");
